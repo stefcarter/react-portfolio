@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3d43007e.css",
+    "main.js": "/react-portfolio/static/js/main.05bfe341.js",
+    "static/media/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg": "/react-portfolio/static/media/nikita-kachanovsky-OVbeSXRk_9E-unsplash.c390b6600c55d29c45ec.jpg",
+    "static/media/readmegen.jpg": "/react-portfolio/static/media/readmegen.f80d885991e48afa4523.jpg",
+    "static/media/teamgen.jpg": "/react-portfolio/static/media/teamgen.2c329eb89b70981a74e2.jpg",
+    "static/media/selfport.jpg": "/react-portfolio/static/media/selfport.e8016bccb718b3b65523.jpg",
+    "static/media/codeq.jpg": "/react-portfolio/static/media/codeq.80fbf753715e200f2d4c.jpg",
+    "static/media/passgen.jpg": "/react-portfolio/static/media/passgen.40cb0e454e3677daf36a.jpg",
+    "static/media/emailicon.png": "/react-portfolio/static/media/emailicon.f2e217b2a3a830050416.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.3d43007e.css.map": "/react-portfolio/static/css/main.3d43007e.css.map",
+    "main.05bfe341.js.map": "/react-portfolio/static/js/main.05bfe341.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d43007e.css",
+    "static/js/main.05bfe341.js"
+  ]
+}
