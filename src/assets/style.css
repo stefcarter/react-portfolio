@@ -8,8 +8,9 @@ body {
     background-attachment: fixed;
 }
 
-.text {
+.topText {
     color:white;
+    margin-left: 5%;
 }
 
 .nav-link {
@@ -27,7 +28,12 @@ body {
     color: orange
 }
 
-.test {
+.midText {
     color: white;
-    margin-top: 50px
+    margin-top: 150px;
+    width: 65%;
+    padding: 10px;
+    text-align: center;
+    margin-left: 20%;
+    font-size:x-large
 }

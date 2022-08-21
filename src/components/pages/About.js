@@ -3,14 +3,9 @@ import React from 'react';
 export default function About() {
   return (
       <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+      <h1 className="topText">About Me</h1>
+      <p className="midText">
+      I am a lifelong computer enthusiast, so I'm studying web development at Penn State in pursuit of a career I can be passionate about. Coding is an enjoyable way to express my creativity. I'm also husband and a dad to two boys, and in my off time I enjoy hikes with my dog and expanding my tarantula collection.
       </p>
     </div>
   );
