@@ -1,0 +1,33 @@
+body {
+    background-image: url("../images/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.text {
+    color:white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-tabs {
+   float: right;
+   background-color:black;
+   font-size: larger;
+   border-radius: 10px;
+}
+
+.nav-item a:hover {
+    color: orange
+}
+
+.test {
+    color: white;
+    margin-top: 50px
+}
